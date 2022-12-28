@@ -10,9 +10,9 @@ To get started, you will need a basic understanding of how the binary search alg
 
 2. Calculate the midpoint of the list by taking the average of the lower and upper bounds.
 
-3. If the value you are searching for is greater than the value at the midpoint, set the lower bound to the midpoint + 1 and repeat the process from step 
+3. If the value you are searching for is greater than the value at the midpoint, set the lower bound to the midpoint + 1 and repeat the process from step 2. 
 
-4. If the value you are searching for is less than the value at the midpoint, set the upper bound to the midpoint - 1 and repeat the process from step
+4. If the value you are searching for is less than the value at the midpoint, set the upper bound to the midpoint - 1 and repeat the process from step 2.
 
 5. If the value you are searching for is equal to the value at the midpoint, you have found the value and can stop the search.
 
